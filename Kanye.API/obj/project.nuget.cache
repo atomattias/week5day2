@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "4l1sKE7w5wvF8vsj8MkWSqexweamsZP+yxEkfP0taDhA5cAEp+euXLCRl+1kM6IeOkklqSy2KNWb94Hhq/HC8A==",
+  "success": true,
+  "projectFilePath": "/Users/salt-dev/bootCamp/week5/day2/Kanye2/Kanye.API/Kanye.API.csproj",
+  "expectedPackageFiles": [
+    "/Users/salt-dev/.nuget/packages/codewithfemi.youtube/1.0.1/codewithfemi.youtube.1.0.1.nupkg.sha512",
+    "/Users/salt-dev/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/salt-dev/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/salt-dev/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/salt-dev/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/salt-dev/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/salt-dev/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

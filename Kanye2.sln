@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# 
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kanye.API", "Kanye.API\Kanye.API.csproj", "{E07C7540-01C2-4378-AB55-3DDF97E6ACE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kanye2.Tests", "Kanye2.Tests\Kanye2.Tests.csproj", "{BED70A51-9FAC-429B-B1B5-E6B5EFE2166B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E07C7540-01C2-4378-AB55-3DDF97E6ACE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E07C7540-01C2-4378-AB55-3DDF97E6ACE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E07C7540-01C2-4378-AB55-3DDF97E6ACE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E07C7540-01C2-4378-AB55-3DDF97E6ACE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BED70A51-9FAC-429B-B1B5-E6B5EFE2166B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BED70A51-9FAC-429B-B1B5-E6B5EFE2166B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BED70A51-9FAC-429B-B1B5-E6B5EFE2166B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BED70A51-9FAC-429B-B1B5-E6B5EFE2166B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
